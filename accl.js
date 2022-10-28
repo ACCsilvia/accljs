@@ -18,11 +18,8 @@
 	// TQ
 	if (avtags == "ticketquarter") {
 	      // $( "#searchBox" ).hide();
-		function addClass() {
-        var v = document.getElementById("span");
-        v.className += "SoldOut";
+		document.getElementsByClassName(‘charge-label’)[0].firstElementChild.innerHTML = ‘Sold-out’;
 		}
-	};
 	
 	// Beatles Story
 	if (avtags == "beatlesstory") {
