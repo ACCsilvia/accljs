@@ -18,7 +18,9 @@
 	// TQ
 	if (avtags == "ticketquarter") {
 	      // $( "#searchBox" ).hide();
-		// $( "#searchBox" ).hide();
+		function addClass() {
+        var v = document.getElementById("span");
+        v.className += "SoldOut";
 	}
 	
 	// Beatles Story
