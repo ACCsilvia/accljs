@@ -18,6 +18,8 @@
 	// TQ
 	if (avtags == "ticketquarter") {
 	      // $( "#searchBox" ).hide();
+		document.getElementsByTagName('div')[span].classList.add('sold-out');
+	}
 	}
 	
 	// Beatles Story
