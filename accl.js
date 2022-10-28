@@ -20,7 +20,6 @@
 	      // $( "#searchBox" ).hide();
 		// document.getElementById("span").classList.add("SoldOut");
 	}
-	}
 	
 	// Beatles Story
 	if (avtags == "beatlesstory") {
