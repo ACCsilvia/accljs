@@ -18,7 +18,7 @@
 	// TQ
 	if (avtags == "ticketquarter") {
 	      // $( "#searchBox" ).hide();
-		$("span").addClass("sold-out");
+		$("span").addClass("soldout");
 	}
 	}
 	
