@@ -21,7 +21,8 @@
 		function addClass() {
         var v = document.getElementById("span");
         v.className += "SoldOut";
-	}
+		}
+	};
 	
 	// Beatles Story
 	if (avtags == "beatlesstory") {
